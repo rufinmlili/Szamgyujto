@@ -16,14 +16,7 @@
     </properties>
 
     <dependencies>
-
-        <!-- Logolás -->
-        <dependency>
-            <groupId>ch.qos.logback</groupId>
-            <artifactId>logback-classic</artifactId>
-            <version>1.2.6</version>
-        </dependency>
-
+             
         <!-- Tesztelés -->
         <dependency>
             <groupId>org.junit.jupiter</groupId>
