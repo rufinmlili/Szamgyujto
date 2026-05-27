@@ -17,7 +17,7 @@
 
     <dependencies>
 
-        <!-- Logolás (nem kötelező, de jó ha van) -->
+        <!-- Logolás -->
         <dependency>
             <groupId>ch.qos.logback</groupId>
             <artifactId>logback-classic</artifactId>
